@@ -1,0 +1,27 @@
+{
+  "name": "ngtrumbitta-services-lodash",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ngTrumbitta/ngtrumbitta-services-lodash",
+  "authors": [
+    "William Ghelfi <trumbitta@gmail.com>"
+  ],
+  "description": "Lodash Angular service",
+  "main": "src/lodash.service.js",
+  "keywords": [
+    "Angular",
+    "Service",
+    "Lodash"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "lodash": "~3.10.1"
+  }
+}
