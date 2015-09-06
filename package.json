@@ -1,0 +1,25 @@
+{
+  "name": "ngtrumbitta-services-lodash",
+  "version": "0.0.0",
+  "description": "lodash Angular service",
+  "private": true,
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma xyz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ngTrumbitta/ngtrumbitta-services-lodash.git"
+  },
+  "author": "William Ghelfi <trumbitta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngTrumbitta/ngtrumbitta-services-lodash/issues"
+  },
+  "homepage": "https://github.com/ngTrumbitta/ngtrumbitta-services-lodash",
+  "devDependencies": {
+    "karma": "^0.13.9"
+  }
+}
