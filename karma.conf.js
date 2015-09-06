@@ -15,8 +15,8 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'https://code.angularjs.org/1.3.15/angular.min.js',
-      'https://code.angularjs.org/1.3.15/angular-mocks.js',
+      'https://code.angularjs.org/1.4.5/angular.min.js',
+      'https://code.angularjs.org/1.4.5/angular-mocks.js',
       'node_modules/lodash/index.js',
       'src/**/*.js',
       'test/**/*.spec.js'
