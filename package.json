@@ -1,6 +1,6 @@
 {
   "name": "ngtrumbitta-services-lodash",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lodash Angular service",
   "private": true,
   "directories": {
