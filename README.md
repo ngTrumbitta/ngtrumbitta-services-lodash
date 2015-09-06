@@ -1,5 +1,7 @@
 # ngTrumbitta Lodash Angular service
 
+[![Build Status](https://travis-ci.org/ngTrumbitta/ngtrumbitta-services-lodash.svg?branch=master)](https://travis-ci.org/ngTrumbitta/ngtrumbitta-services-lodash)
+
 Inject Lodash in any Angular application, and use it via the good old `_` handler.
 
 Just a little something I find myself rewriting every time I work on an Angular application.  
