@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "karma xyz"
+    "test": "./node_modules/karma/bin/karma start --single-run"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/ngTrumbitta/ngtrumbitta-services-lodash",
   "devDependencies": {
-    "karma": "^0.13.9"
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "lodash": "^3.10.1",
+    "phantomjs": "^1.9.18"
   }
 }
