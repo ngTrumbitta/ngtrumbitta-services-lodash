@@ -17,6 +17,7 @@ bower install ngtrumbitta-services-lodash
 
 ```html
 <script src="//code.angularjs.org/1.4.5/angular.min.js"></script>
+<script src="bower_components/lodash/lodash.min.js"></script>
 <script src="bowser_components/ngtrumbitta-services-lodash/src/lodash.service.js"></script>
 ```
 
